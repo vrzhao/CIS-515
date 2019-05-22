@@ -1,3 +1,3 @@
 # CIS-515
 
-Tableau queries on the Superstore and EU Superstore datasets
+Tableau queries on a modified version of the Global Superstore dataset
